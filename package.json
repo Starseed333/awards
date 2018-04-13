@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Starseed333/awards/issues"
   },
-  "homepage": "https://github.com/Starseed333/awards#readme"
+  "homepage": "https://github.com/Starseed333/awards#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
