@@ -1,4 +1,4 @@
-# **Portfolio**
+# **Awards Application**
 
 
 ### **Description**
@@ -7,7 +7,7 @@ The Awards application categorizes the talents and efforts from all the students
 
 
 
-#### [Visit the Portfolio here](https://awardsfc.herokuapp.com/)
+#### [Visit the Application here](https://awardsfc.herokuapp.com/)
 
 #### Express Framework
 
