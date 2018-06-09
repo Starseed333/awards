@@ -6,7 +6,8 @@ html {height: 100%;}
 body {
   position: relative;
   height: 100%;
-  background: rgb(128,128,128);
+  background-image: url('image.jpeg');
+  /*background: rgb(128,128,128);*/
   /*font-family: 'Roboto', sans-serif;*/
   font-weight: 300;
   font-size: 17px;
